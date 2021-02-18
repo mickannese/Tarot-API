@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  font-family: 'PT Serif', sans-serif;
+  margin: 0px;
+  color: #bbbbbb;
+  background: url(https://steamuserimages-a.akamaihd.net/ugc/927045630475972262/3B21A49FC99E5054A34F280FD2F19AECB118A91F/);
+  background-repeat: repeat;
+  /* background: rgb(221, 221, 221); */
+  font-size: 1.1em;
+  font-family: 'Yusei Magic', sans-serif;
+  cursor: url(https://cdn.discordapp.com/attachments/804795005226319874/811729033758638100/Untitled-4.png), auto !important;
+}
+
+
+select {
+  text-align: center;
+  width: 100px;
+  background: rgba(141, 141, 141, 0.384);
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+}
+
+
+button {
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+  width: 60px;
+  color: #bbbbbb;
+  background: rgba(141, 141, 141, 0.384);
+}
+
+
+.logo {
+  font-weight: bold;
+  font-size: 1.9em;
+  margin-right: auto;
+  margin-left: 10px;
+  font-family: 'Francois One';
+  color: #ffffff;
+}
+
+.main {
+  text-align:center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.nav {
+  background-color: #3498DB;
+  margin: 0px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-family: 'Francois One';
+}
+
+.nav-selected {
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 1.1em;
+}
+
+.invis {
+  display: none
+}
